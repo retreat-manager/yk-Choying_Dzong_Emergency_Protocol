@@ -54,10 +54,12 @@ There are many precautions we can take to reduce the risk of catastrophe:
 
 In the case of less severe, non life-threatening situations that require immediate attention and/or assistance, please contact the Retreat Manager/Caretaker at the Lhakhang (temple), or by phone (719-256-0363). If necessary, contact others on the list below in the order they appear until you reach someone.
 
-## Contact Info (last resort)
+## Chöying Dzong Emergency Contact List
 
 Retreat Manager (caretaker): Neal 719-256-0363
+
 Director: David Lindsey: 719-256-4400
+
 Secretary/Finances: Pam Uhlenkamp: 303-717-7287
 
 ## First Aid Kit
