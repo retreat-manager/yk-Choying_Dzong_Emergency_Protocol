@@ -28,10 +28,10 @@ If you hear sirens from the Baca Fire Department (not a test), or air horns form
 
 ## Public Resources
 
-Emergency/Ambulance: 911
-Baca Emergency Services: 719-256-4171
-Saguache County Sheriff's Dept: 719-655-2525
-Colorado State Patrol: 719-589-5807
+- Emergency/Ambulance: 911
+- Baca Emergency Services: 719-256-4171
+- Saguache County Sheriff's Dept: 719-655-2525
+- Colorado State Patrol: 719-589-5807
 
 ## Precautions
 
