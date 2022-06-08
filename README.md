@@ -24,5 +24,5 @@ If you hear sirens from the Baca Fire Department (not a test), or air horns form
 8. Please check in at Moffat School ASAP to the relevant public servants, so they don't have to search for you later.
 9. Inform any relatives, emergency contacts or conserned parties of your status
 
-> _ _ Air Horns may be used to ward of predators. Or, if assistance is needed/evacuation required, blow the horn appropriately until assistance arrives. _ _
+> * * Air Horns may be used to ward of predators. Or, if assistance is needed/evacuation required, blow the horn appropriately until assistance arrives. * *
 
