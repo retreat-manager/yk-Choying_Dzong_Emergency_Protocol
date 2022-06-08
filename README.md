@@ -33,16 +33,16 @@ If you hear sirens from the Baca Fire Department (not a test), or air horns form
 - Saguache County Sheriff's Dept: 719-655-2525
 - Colorado State Patrol: 719-589-5807
 
-<!-- ## Precautions
+## Precautions
 
 There are many precautions we can take to reduce the risk of catastrophe:
 
-- [ ] Check fire extinguishers and smoke dectectors are up to date and in working order
-- [ ] Create a defensible space around your residence/cabin
-- [ ] Remove dry brush and branches 30 feet around perimeter of your structure
-- [ ] Store firewood uphill, 30 feet from structure
-- [ ] Clear vegetation and flammable material from propane tanks
-- [ ] Clean chimmney, roof and gutters regularly -->
+Check fire extinguishers and smoke dectectors are up to date and in working order.
+Create a defensible space around your residence/cabin.
+Remove dry brush and branches 30 feet around perimeter of your structure.
+Store firewood uphill, 30 feet from structure.
+Clear vegetation and flammable material from propane tanks.
+Clean chimmney, roof and gutters regularly.
 
 ***Note: while using wood and propane stoves, beware of the danger of carbon monoxide poisoning. Please check and ensure that a carbon monixide detector is present and functioning. Crack a window during periods of heavy use to ensure more oxygen***
 
