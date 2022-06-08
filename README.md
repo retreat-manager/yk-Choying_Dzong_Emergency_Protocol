@@ -46,20 +46,16 @@ There are many precautions we can take to reduce the risk of catastrophe:
 
 ***Note: while using wood and propane stoves, beware of the danger of carbon monoxide poisoning. Please check and ensure that a carbon monixide detector is present and functioning. Crack a window during periods of heavy use to ensure more oxygen***
 
->> 35ppm: headache, dizziness in 6-8 hours of constant exposure
->> 
->> 400ppm: frontal headache within 1-2 hours of exposure
->> 
+>> 35ppm: headache, dizziness in 6-8 hours of constant exposure<br>
+>> 400ppm: frontal headache within 1-2 hours of exposure<br>
 >> 3200ppm: headache, dizziness, nausea in 5-10 minutes of exposure - death in 30 minutes.
 
 In the case of less severe, non life-threatening situations that require immediate attention and/or assistance, please contact the Retreat Manager/Caretaker at the Lhakhang (temple), or by phone (719-256-0363). If necessary, contact others on the list below in the order they appear until you reach someone.
 
 ## Chöying Dzong Emergency Contact List
 
-Retreat Manager (caretaker): **Neal 719-256-0363**
-
-Director: **David Lindsey: 719-256-4400**
-
+Retreat Manager (caretaker): **Neal 719-256-0363**<br>
+Director: **David Lindsey: 719-256-4400**<br>
 Secretary/Finances: **Pam Uhlenkamp: 303-717-7287**
 
 ## First Aid Kit
