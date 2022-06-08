@@ -10,7 +10,7 @@ Change of clothes including coat, gloves, hat and blanket/sleeping bag.
 Some nutrition bars and a water bottle.
 First aid kit, flashlight, possibly a radio or tools.
 
-## Evacuatio Plan
+## Evacuation Plan
 
 If you hear sirens from the Baca Fire Department (not a test), or air horns form Chöying Dzong:
 
