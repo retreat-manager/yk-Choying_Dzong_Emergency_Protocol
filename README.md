@@ -26,6 +26,8 @@ If you hear sirens from the Baca Fire Department (not a test), or air horns form
 
 ***Air Horns may be used to ward of predators. Or, if assistance is needed/evacuation required, blow the horn appropriately until assistance arrives***
 
+<div style="page-break-after: always"></div>
+
 ## Public Resources
 
 - Emergency/Ambulance: 911
