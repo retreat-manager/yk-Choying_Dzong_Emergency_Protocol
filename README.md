@@ -54,9 +54,9 @@ In the case of less severe, non life-threatening situations that require immedia
 
 ## Chöying Dzong Emergency Contact List
 
-- Retreat Manager (caretaker): **Neal 719-256-0363**
+- Retreat Manager (caretaker): **Kegan 320-293-1135**
 - Director: **David Lindsey: 719-256-4400**
-- Secretary/Finances: **Pam Uhlenkamp: 303-717-7287**
+- Secretary/Finances: **Pam Uhlenkamp: 719-207-1207**
 
 ## First Aid Kit
 
